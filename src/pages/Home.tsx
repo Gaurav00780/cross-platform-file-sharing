@@ -97,7 +97,6 @@ export const Home: React.FC = () => {
                         fileId={uploadState.fileId}
                         fileName={uploadedFile?.name || 'File'}
                         peerStatus={peerStatus}
-                        directDownloadUrl={uploadState.downloadUrl || undefined}
                     />
                 ) : (
                     <FileUpload onFilesSelected={handleFilesSelected} />
