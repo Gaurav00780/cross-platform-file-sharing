@@ -7,7 +7,7 @@ Works smoothly across mobile, desktop, and any browser — no installation requi
 
 ## 🚀 Live Demo
 
-`https://your-app-url.vercel.app`
+(https://snap-qrshare.vercel.app/)
 
 ---
 
